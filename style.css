@@ -1,0 +1,12 @@
+.box {
+  margin: auto;
+  text-align: center;
+}
+
+.box img {
+  max-width: 100%;
+}
+
+.box h2 {
+  text-transform: uppercase;
+}
