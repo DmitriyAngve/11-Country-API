@@ -8,3 +8,6 @@ Good practice for access some different content handle it.
 
 Added simple pagination.
 
+Unpretentious style included!
+
+<h2 align="center">Thanks for reading this entire post.<h2>
