@@ -87,7 +87,7 @@ function pageEl(data) {
 
   const stats = createNode(main, "div", html1);
 }
-// Функци для создания списков
+// Function for create list of nodes
 function createNode(parent, elType, html) {
   const ele = document.createElement(elType);
   parent.append(ele);
